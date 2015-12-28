@@ -114,3 +114,6 @@ creates the authentication tokens
 
 ## This can be accessed from the repository.
 
+# Youtube Video
+[![Everything Is AWESOME](http://i.imgur.com/hnpavfk.png)](https://www.youtube.com/embed/Hkm4THS3Rf8 "Everything Is AWESOME")
+
